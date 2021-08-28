@@ -20,7 +20,8 @@
             }
         </style>
         <script>
-            // u can use java script here
+            // u can use javascript here
+            // ok im use it
         </script>
     </head>
     <body class="antialiased">
